@@ -1,6 +1,6 @@
 # React Nice Resume :page_with_curl:
 
-### [LIVE DEMO](https://ashiquebiniqbal.github.io/my-landing-page/index.html)
+### [LIVE DEMO](https://ashiquebiniqbal.github.io/my-landing-page/blob/main/public/index.html)
 
 ![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
 
